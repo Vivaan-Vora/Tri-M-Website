@@ -29,12 +29,7 @@ function App() {
             <li>
               <Link to="/contact">Team</Link>
             </li>
-            <li>     
-            </li>
-            <li>
-              <Link to="/contact">Calendar</Link>  
-            </li>
-            <li>            
+            <li>  
           </ul>
         </nav>
 
