@@ -18,7 +18,7 @@ function Navigation() {
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/about">
+                <NavLink className="nav-link" color = "purple" to="/about">
                   About Us
                 </NavLink>
               </li>

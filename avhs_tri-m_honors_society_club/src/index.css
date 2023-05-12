@@ -4,7 +4,8 @@ body {
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  -moz-osx-font-smoothing: purple;
+  background-color: rgb(0, 0, 0);
 }
 
 code {
@@ -13,9 +14,26 @@ code {
 }
 a {
   text-decoration: none;
-  color: black;
+  color: purple;
+  size : 20px;
 }
 a:hover {
   text-decoration: none;
-  color: rgba(0, 0, 0, 0.349);
+  color: yellow;
 }
+
+p{
+  color : white;
+  font-size : 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+   color :rgb(235, 99, 99);
+   font-size: 35px;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+
+
+

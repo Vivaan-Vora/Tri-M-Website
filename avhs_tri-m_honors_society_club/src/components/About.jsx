@@ -4,7 +4,7 @@ function About() {
   return (
     <div className="about">
       <div class="container">
-        <h1 class="font-weight-light">About</h1>
+        <h1 class="font-weight-light">About Us</h1>
         <p>
           Welcome to the Tri-M Honors Society Website! We are a prestigious
           society dedicated to recognizing and promoting excellence in music
@@ -12,6 +12,8 @@ function About() {
           hours, giving them opportunities to perform in public and give them
           live experience, as well as guiding them along their way to excellence
           in their musical skills.
+          <br></br>
+          <img src = "music.jpeg" height = "700" width = "1000"></img>
         </p>
       </div>
     </div>
