@@ -6,8 +6,8 @@ function Contact() {
       <div class="container">
         <h1 class="font-weight-light">Contact</h1>
         <p>
-          Feel free to reach out to us for any inquiries or questions. You can
-          contact us at example@example.com or call us at (123) 456-7890
+          Please feel free to reach out to us for any inquiries or questions about our organization. 
+          You can contact us at avmusichonorsociety@gmail.com or call us at ()
         </p>
       </div>
     </div>

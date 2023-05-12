@@ -6,12 +6,7 @@ function About() {
       <div class="container">
         <h1 class="font-weight-light">About Us</h1>
         <p>
-          Welcome to the Tri-M Honors Society Website! We are a prestigious
-          society dedicated to recognizing and promoting excellence in music
-          education. We are focused on helping high schoolers earn their service
-          hours, giving them opportunities to perform in public and give them
-          live experience, as well as guiding them along their way to excellence
-          in their musical skills.
+        Tri M is a service organization dedicated in promoting musician's abilities to lead, serve, and perform. As an organization with well qualified members, we hope to seek to improve the AV music program and help set it as well as its musicians up for success. We help to also make music education accessible and affordable to everyone with grants toward supporting their dreams. We hope to be able to influence kids to serve with their freedom and desire rather than force it upon them.
           <br></br>
           <img src = "music.jpeg" height = "700" width = "1000"></img>
         </p>
