@@ -6,8 +6,9 @@ function Contact() {
       <div class="container">
         <h1 class="font-weight-light">Contact</h1>
         <p>
-          Please feel free to reach out to us for any inquiries or questions about our organization. 
-          You can contact us at avmusichonorsociety@gmail.com or call us at ()
+          Please feel free to reach out to us for any inquiries or questions about our organization.
+          Email us at: avmusichonorsociety@gmail.com
+          Call us at: (925)-233-9112
         </p>
       </div>
     </div>
