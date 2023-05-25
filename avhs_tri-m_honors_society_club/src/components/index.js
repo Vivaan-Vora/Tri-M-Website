@@ -6,3 +6,5 @@ export { default as Contact } from "./Contact";
 export { default as Team } from "./Team";
 export { default as Calendar } from "./Calendar";
 export { default as Join } from "./Join";
+export {default as Collaboration} from "./Collaboration";
+
