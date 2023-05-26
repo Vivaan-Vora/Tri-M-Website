@@ -13,6 +13,17 @@ function Team() {
               is passionate about music education and strives to create
               meaningful experiences for our members.
             </p>
+
+            <div id="person">
+		            <div class="items">
+			            <img src="Roni.JPG"></img>
+			            <div class="name">
+                    <h1>Rohith Dinesh</h1>
+				            <h2>President</h2>
+				            <p>Description</p>
+			            </div>
+		            </div>
+          </div>
           </div>
         </div>
       </div>

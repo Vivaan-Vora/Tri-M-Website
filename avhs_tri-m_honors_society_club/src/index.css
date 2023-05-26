@@ -8,7 +8,7 @@ body {
   background-color: rgb(0, 0, 0);
 }
 
-code {
+code{
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
@@ -22,6 +22,26 @@ a:hover {
   color: yellow;
 }
 
+#person{
+	width: 80%;
+	margin: auto;
+}
+.items{
+	margin-top: 40px;
+}
+
+.items img{
+	width: 40%;
+	box-shadow: 2px 2px 6px black;
+	vertical-align: middle;
+}
+.name{
+	display: inline-block;
+	width: 55%;
+	vertical-align: middle;
+	padding: 30px;
+}
+
 p{
   color : white;
   font-size : 20px;
@@ -33,6 +53,11 @@ h1{
    font-size: 35px;
    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
+
+
+
+
+
 
 
 

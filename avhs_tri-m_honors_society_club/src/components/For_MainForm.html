@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Java Swing in HTML</title>
+  <style>
+    #app-container {
+      width: 900px;
+      height: 600px;
+      margin: 0 auto;
+      border: 1px solid black;
+    }
+  </style>
+</head>
+<body>
+  <h1>Java Swing in HTML</h1>
+  <div id="app-container"></div>
+
+  <script src="MainForm.js"></script>
+  <script>
+    // Create an instance of the MainForm and append it to the app-container div
+    const mainForm = new MainForm();
+    document.getElementById('app-container').appendChild(mainForm.getContentPane().getComponent(0));
+  </script>
+</body>
+</html>

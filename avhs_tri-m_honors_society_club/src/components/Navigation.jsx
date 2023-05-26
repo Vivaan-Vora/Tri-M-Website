@@ -19,17 +19,12 @@ function Navigation() {
               </li>
               <li className="nav-item">
                 <NavLink className="nav-link" to="/about">
-                  About Us
+                  About
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/contact">
-                  Contact Us
-                </NavLink>
-              </li>
-              <li className="nav-item">
-                <NavLink className="nav-link" to="/team">
-                  Our Team
+                <NavLink className="nav-link" to="/join">
+                  Join
                 </NavLink>
               </li>
               <li className="nav-item">
@@ -38,8 +33,18 @@ function Navigation() {
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/join">
-                  Join Us!
+                <NavLink className="nav-link" to="/team">
+                  Our Team
+                </NavLink>
+              </li>
+              <li className="nav-item">
+                <NavLink className="nav-link" to="/contact">
+                  Contact
+                </NavLink>
+              </li>
+              <li className="nav-item">
+                <NavLink className="nav-link" to="/collaborate">
+                  Collaborate
                 </NavLink>
               </li>
             </ul>
