@@ -12,6 +12,7 @@ import {
   Team,
   Calendar,
   Join,
+  Collaboration,
 } from "./components";
 
 ReactDOM.render(
@@ -24,6 +25,7 @@ ReactDOM.render(
       <Route path="/team" element={<Team />} />
       <Route path="/calendar" element={<Calendar />} />
       <Route path="/join" element={<Join />} />
+      <Route path="/collaboration" element={<Collaboration />} />
     </Routes>
     {/* <Footer /> */}
   </Router>,

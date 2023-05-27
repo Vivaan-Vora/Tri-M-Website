@@ -18,18 +18,28 @@ function Navigation() {
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/about">
-                  About
-                </NavLink>
-              </li>
-              <li className="nav-item">
-                <NavLink className="nav-link" to="/join">
-                  Join
+                <NavLink className="nav-link" to="/team">
+                  Our Team
                 </NavLink>
               </li>
               <li className="nav-item">
                 <NavLink className="nav-link" to="/calendar">
-                  Calendar
+                  Events
+                </NavLink>
+              </li>
+              <li className="nav-item">
+                <NavLink className="nav-link" to="/About">
+                  About
+                </NavLink>
+              </li>
+              <li className="nav-item">
+                <NavLink className="nav-link" to="/contact">
+                  Contact Us
+                </NavLink>
+              </li>
+              <li className="nav-item">
+                <NavLink className="nav-link" to="/collaboration">
+                  Collaborate
                 </NavLink>
               </li>
               <li className="nav-item">
